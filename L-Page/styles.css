@@ -1,0 +1,17 @@
+* {
+    /* border: 1px solid red; */
+    overflow: hidden;
+    background-color: #1f2937;
+}
+
+.section-1 {
+    border-bottom: white solid 1px;
+
+}
+
+.section-1 a {
+    border: 1px solid red;
+
+    display: inline-block;
+    flex-direction: row-reverse;
+    justify-content: space-between;
